@@ -1,2 +1,5 @@
-import React from "react";
-import { App } from "./App";
+import "./styles/global.scss";
+
+export function App() {
+    return <h1>Hello Word</h1>
+}
